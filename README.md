@@ -5,12 +5,12 @@ There are a lot of APIs Provided by NASA on their [Website](https://api.nasa.gov
 
 # Earth Pyrochromic Imaging Camera
 
-![](https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Earth/2022-02-05%200.jp)
+![](https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Earth/2022-02-05%200.jpg)
 
 # Some Satellite Images from Landsat Tracking Changes on a Latitude and Longitude. 
 
 ## Qatar 2014 - Al Wakrah
-<img style="width:200">https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Qatar/Al%20Wakrah/Qatar%20as%20seen%20on%202014%202.jpg</img>
+<img "width:200" src="https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Qatar/Al%20Wakrah/Qatar%20as%20seen%20on%202014%202.jpg"/>
 ## Qatar 2022 - Al Wakrah
 ![](https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Qatar/Al%20Wakrah/Qatar%20as%20seen%20on%202021%202.jpg)
 
