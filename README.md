@@ -10,7 +10,7 @@ There are a lot of APIs Provided by NASA on their [Website](https://api.nasa.gov
 # Some Satellite Images from Landsat Tracking Changes on a Latitude and Longitude. 
 
 ## Qatar 2014 - Al Wakrah
-<img src="https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Qatar/Al%20Wakrah/Qatar%20as%20seen%20on%202014%202.jpg" width:"200" />
+<img src="https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Qatar/Al%20Wakrah/Qatar%20as%20seen%20on%202014%202.jpg" width="200">
 ## Qatar 2022 - Al Wakrah
 ![](https://github.com/KrishnarajT/Exploring-NASA-APIs/blob/main/Qatar/Al%20Wakrah/Qatar%20as%20seen%20on%202021%202.jpg)
 
